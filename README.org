@@ -1,0 +1,9 @@
+* cf
+
+Computations using continued fractions
+
+|---------+----------------------------------------|
+| source  | git:https://codeberg.org/glv/cl-cf.git |
+| commit  | 9a8ecb2                                |
+| systems | cf                                     |
+|---------+----------------------------------------|
