@@ -4,6 +4,6 @@ Computations using continued fractions
 
 |---------+----------------------------------------|
 | source  | git:https://codeberg.org/glv/cl-cf.git |
-| commit  | 9a8ecb2                                |
+| commit  | 0aa0dd6                                |
 | systems | cf                                     |
 |---------+----------------------------------------|
