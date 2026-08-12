@@ -7,4 +7,4 @@ Computations using continued fractions
 | commit  | 0aa0dd6                                |
 | systems | cf                                     |
 |---------+----------------------------------------|
- 
+  
